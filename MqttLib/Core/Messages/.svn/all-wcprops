@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages
+END
+MessageFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MessageFactory.cs
+END
+IPersistentMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/IPersistentMessage.cs
+END
+MqttPubcompMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttPubcompMessage.cs
+END
+MqttPubackMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttPubackMessage.cs
+END
+MqttPingReqMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttPingReqMessage.cs
+END
+MqttMessageReceivedEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttMessageReceivedEventArgs.cs
+END
+MqttPublishMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttPublishMessage.cs
+END
+MqttSubackMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttSubackMessage.cs
+END
+MqttUnsubackMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttUnsubackMessage.cs
+END
+MqttConnackMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttConnackMessage.cs
+END
+MqttMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttMessage.cs
+END
+MqttPubrecMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttPubrecMessage.cs
+END
+MqttSubscribeMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttSubscribeMessage.cs
+END
+MqttAcknowledgeMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttAcknowledgeMessage.cs
+END
+MqttUnsubscribeMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttUnsubscribeMessage.cs
+END
+MqttPingRespMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttPingRespMessage.cs
+END
+MqttPubrelMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttPubrelMessage.cs
+END
+MqttDisconnectMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttDisconnectMessage.cs
+END
+MqttConnectMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Messages/MqttConnectMessage.cs
+END

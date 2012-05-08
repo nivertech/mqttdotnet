@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib
+END
+MqttClientFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/MqttClientFactory.cs
+END
+IMqttPublisher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/IMqttPublisher.cs
+END
+MqttParcel.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/MqttParcel.cs
+END
+MqttBrokerUnavailableException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/MqttBrokerUnavailableException.cs
+END
+IMqttSubscriber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/IMqttSubscriber.cs
+END
+IMqttConnectDisconnect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/IMqttConnectDisconnect.cs
+END
+Mqtt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Mqtt.cs
+END
+IMqttShared.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/IMqttShared.cs
+END
+CompleteArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/CompleteArgs.cs
+END
+MqttBroker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/MqttBroker.cs
+END
+IPersistence.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/IPersistence.cs
+END
+IMqtt.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/IMqtt.cs
+END
+MqttPayload.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/MqttPayload.cs
+END
+PublishArrivedArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/PublishArrivedArgs.cs
+END
+QoS.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/QoS.cs
+END
+MqttDelegates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/MqttDelegates.cs
+END
+MqttException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/MqttException.cs
+END
+MqttLib.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/MqttLib.csproj
+END
+MqttNotConnectedException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/MqttNotConnectedException.cs
+END
+IMqttSharedSubscriber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/IMqttSharedSubscriber.cs
+END
+MqttLib_Key.snk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/MqttLib_Key.snk
+END

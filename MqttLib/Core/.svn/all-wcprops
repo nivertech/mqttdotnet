@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core
+END
+QoSManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/QoSManager.cs
+END
+NotConnectedException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/NotConnectedException.cs
+END
+MQTTStreamExceptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/MQTTStreamExceptions.cs
+END
+StreamFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/StreamFactory.cs
+END
+Subscription.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/Subscription.cs
+END
+StreamManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/mqttdotnet/!svn/ver/1/trunk/MqttLib/Core/StreamManager.cs
+END
